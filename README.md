@@ -2,7 +2,7 @@ Notes for the Research Community
 ================================
 *by Norbert Schorghofer*
 
-* `thermal_parameter.pdf`  
+* `invariants_heat_equation.pdf`  
   Derivation of invariant parameters for surface temperatures of
   airless body
 
