@@ -11,4 +11,7 @@ Notes for the Research Community
   condition. Here, a formal derivation is given, along with a
   correction to the Standard Thermal Model for asteroids.
 
+* `areaprojection.pdf`  
+  Area of rectangular pixel for polar stereographic projection
+
 * More to come ...
