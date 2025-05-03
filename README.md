@@ -14,4 +14,8 @@ Notes for the Research Community
 * `areaprojection.pdf`  
   Area of rectangular pixel for polar stereographic projection
 
+* `singular_resurrected.pdf`  
+  Unpublished paper from 2011 titled "Regularization of UV-divergence for tidal
+  conversion calculations"
+
 * More to come ...
